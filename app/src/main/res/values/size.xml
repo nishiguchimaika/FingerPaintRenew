@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="SizeNames">
+        <item>5px</item>
+        <item>10px</item>
+        <item>15px</item>
+        <item>20px</item>
+        <item>25px</item>
+        <item>30px</item>
+        <item>40px</item>
+        <item>50px</item>
+    </string-array>
+
+    <!--<float-array name="SizeValues">-->
+        <!--<item>5.0f</item>-->
+        <!--<item>10.0f</item>-->
+        <!--<item>15.0f</item>-->
+        <!--<item>20.0f</item>-->
+        <!--<item>25.0f</item>-->
+        <!--<item>30.0f</item>-->
+        <!--<item>40.0f</item>-->
+        <!--<item>50.0f</item>-->
+    <!--</float-array>-->
+
+    <integer-array name="SizeValues">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+    </integer-array>
+</resources>
